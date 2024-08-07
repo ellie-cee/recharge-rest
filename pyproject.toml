@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools >= 70.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "recharge-cnr"
+version = "1.1.6"
+dependencies = [
+]
+authors = [
+  {name = "eleanor Cassady", email = "ellie@chelseaandrachel.com"},
+]
+description="barebones recharge client"
